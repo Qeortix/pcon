@@ -15,6 +15,7 @@
         <title>Включен ли ваш компьютер</title>
     </head>
     <body>
+        <h1> Включен ли ваш компьютер? </h1>
         <div class="space">s</div>
         <div class="smain">
             <input type="button" value="проверить" onmousedown="viewDiv()" />
